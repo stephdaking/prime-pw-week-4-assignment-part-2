@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+header {
+    background-color: rgb(16, 111, 205);
+}
+
+.info h2 {
+    background-color: cyan;
+    color: rgb(0, 67, 223);
+}
+
+.info h3 {
+    background-color: black;
+    color: aliceblue;
+}
